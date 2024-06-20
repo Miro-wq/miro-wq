@@ -31,23 +31,19 @@ Skills: Node.js / React / JS / HTML / CSS /
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=transparent)
  
 
-{
-  "rank": "S+",
-  "rank_percent": "87.22 %",
-  "top_rank_percent": "12.78 %",
-  "score_calc": "261,646 / 300,000",
-  "stars": "705,943",
-  "commits": "14,838",
-  "pull_requests": "645",
-  "issues": "1,612",
-  "contributed_to": "80",
-  "followers": "155",
-  "fetch_date_time": "2024-06-20 10:19:04",
-  "days_left": "192:365",
-  "years_progress": "47.40 %",
-  "years_progress_graph": "12 (25)",
-  "morning_commits": "4,568",
-  "lateMorning_commits": "6,716",
-  "afternoon_commits": "3,187",
-  "evening_commits": "367"
-}
+Developer ranking            S+    █████████████████████░░░░     87.06 %   (Ranking %)
+Score                   261,188    █████████████████████░░░░     87.06 %   (261,188 / 300,000)
+
+All-time stars          704,481    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         14,829    █████████████████████████    100.00 %
+All-time PR's               644    █████████████████████████    100.00 %
+All-time issues           1,612    █████████████████████████    100.00 %
+Contributed to               80    █████████████████████████    100.00 %
+GitHub followers            155    ░░░░░░░░░░░░░░░░░░░░░░░░░      0.09 %   (180,000)
+
+2024-06-12 09:30:10     201:365    ███████████░░░░░░░░░░░░░░     44.93 %   (365)
+
+Morning           4,565 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
+Late morning      6,712 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
+Afternoon         3,185 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
+Evening             367 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
