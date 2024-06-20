@@ -31,3 +31,23 @@ Skills: Node.js / React / JS / HTML / CSS /
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=transparent)
  
 
+{
+  "rank": "S+",
+  "rank_percent": "87.22 %",
+  "top_rank_percent": "12.78 %",
+  "score_calc": "261,646 / 300,000",
+  "stars": "705,943",
+  "commits": "14,838",
+  "pull_requests": "645",
+  "issues": "1,612",
+  "contributed_to": "80",
+  "followers": "155",
+  "fetch_date_time": "2024-06-20 10:19:04",
+  "days_left": "192:365",
+  "years_progress": "47.40 %",
+  "years_progress_graph": "12 (25)",
+  "morning_commits": "4,568",
+  "lateMorning_commits": "6,716",
+  "afternoon_commits": "3,187",
+  "evening_commits": "367"
+}
