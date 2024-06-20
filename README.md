@@ -11,11 +11,10 @@
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
-      align="right"
     />
   </a>
 
-<a href="https://app.daily.dev/jack3444"><img src="https://api.daily.dev/devcards/v2/BtK7zNpxYJFMlvlgY3tgo.png?type=default&r=ooh" width="356" alt="Miro's Dev Card"/></a>
+<a href="https://app.daily.dev/jack3444"><img src="https://api.daily.dev/devcards/v2/BtK7zNpxYJFMlvlgY3tgo.png?type=default&r=ooh" width="356" alt="Miro's Dev Card" align="right"/></a>
 
 </div>
 
