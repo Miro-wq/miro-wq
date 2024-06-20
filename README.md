@@ -42,7 +42,7 @@ Hello! My name is Miro, and I'm on an exciting journey to become a proficient we
 
 I am very passionate about coding and eager to contribute to the web development community. Feel free to check out my repositories and follow my journey as I continue to learn and grow.
 
-## GitHub Stats & ## Contributions
+## GitHub Stats & Contributions
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=midnight-purple) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=midnight-purple)
 
