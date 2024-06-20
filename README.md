@@ -51,3 +51,7 @@ I am very passionate about coding and eager to contribute to the web development
 ## Contributions
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=midnight-purple)
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vision-friendly-dark&show_icons=true)
