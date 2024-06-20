@@ -30,18 +30,19 @@ Hello! My name is Miro, and I'm on an exciting journey to become a proficient we
 
 **Current Learning Goals:**
 - **JavaScript Advanced Topics:** Deepening my knowledge in advanced JavaScript concepts and best practices.
-- **Frontend Frameworks:** Exploring frameworks like React or Angular to build more dynamic web applications.
+- **Frontend Frameworks:** Exploring frameworks like React, Angular and Node.js to build more dynamic web applications.
 - **Backend Development:** Gaining a basic understanding of backend technologies to become a full-stack developer.
 
 **Projects:**
 - **Personal Portfolio:** A showcase of my projects and skills.
 - **Interactive Web Pages:** Various projects demonstrating my ability to create interactive and user-friendly web pages using JavaScript.
+- **Different projects** for a solid base.
 
-I am passionate about coding and eager to contribute to the web development community. Feel free to check out my repositories and follow my journey as I continue to learn and grow.
+I am very passionate about coding and eager to contribute to the web development community. Feel free to check out my repositories and follow my journey as I continue to learn and grow.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=midnight-purple)
 
 ## Badges
 
@@ -49,4 +50,4 @@ I am passionate about coding and eager to contribute to the web development comm
 
 ## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=midnight-purple)
