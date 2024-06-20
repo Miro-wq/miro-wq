@@ -14,13 +14,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=jack3444" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/Miro-wq/Miro-wq/blob/main/devcard.svg"
-    />
-  </a>
+<a href="https://app.daily.dev/jack3444"><img src="https://api.daily.dev/devcards/v2/BtK7zNpxYJFMlvlgY3tgo.png?type=default&r=ooh" width="356" alt="Miro's Dev Card"/></a>
 
 </div>
 
