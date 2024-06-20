@@ -41,18 +41,27 @@ I am passionate about coding and eager to contribute to the web development comm
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ## Badges
 
-[![GitHub followers](https://img.shields.io/github/followers/Miro-wq?style=social)](https://github.com/Miro-wq)
-[![GitHub stars](https://img.shields.io/github/stars/Miro-wq?style=social)](https://github.com/Miro-wq)
-[![GitHub forks](https://img.shields.io/github/forks/Miro-wq?style=social)](https://github.com/Miro-wq)
+<p align="center">
+  <a href="https://github.com/Miro-wq"><img src="https://img.shields.io/github/followers/Miro-wq?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/Miro-wq"><img src="https://img.shields.io/github/stars/Miro-wq?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/Miro-wq"><img src="https://img.shields.io/github/forks/Miro-wq?style=social" alt="GitHub forks"></a>
+</p>
 
 ## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=radical" alt="GitHub Contributions">
+</p>
+
