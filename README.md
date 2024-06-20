@@ -5,12 +5,14 @@
     <img
       src="https://img.shields.io/twitter/follow/Miro1008846130?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
+      target="_blank"
     />
   </a>
   <a href="https://www.linkedin.com/in/cioban-miroslav-3a4275306/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
+      target="_blank"
     />
   </a>
 
