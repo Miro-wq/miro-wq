@@ -42,14 +42,10 @@ Hello! My name is Miro, and I'm on an exciting journey to become a proficient we
 
 I am very passionate about coding and eager to contribute to the web development community. Feel free to check out my repositories and follow my journey as I continue to learn and grow.
 
-## GitHub Stats
+## GitHub Stats & ## Contributions
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=midnight-purple)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=midnight-purple) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=midnight-purple)
 
 ## Badges
 
 [![GitHub followers](https://img.shields.io/github/followers/Miro-wq?style=social)](https://github.com/Miro-wq) [![GitHub stars](https://img.shields.io/github/stars/Miro-wq?style=social)](https://github.com/Miro-wq) [![GitHub forks](https://img.shields.io/github/forks/Miro-wq?style=social)](https://github.com/Miro-wq)
-
-## Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Miro-wq&theme=midnight-purple)
