@@ -14,7 +14,12 @@ Skills: Node.js / React / JS / HTML / CSS /
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=transparent ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=transparent)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=transparent" alt="Your GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=transparent" alt="Top Langs" /></td>
+  </tr>
+</table>
 
 ## Badges
 
