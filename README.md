@@ -20,7 +20,7 @@ Skills: Node.js / React / JS / HTML / CSS /
 
 [![GitHub followers](https://img.shields.io/github/followers/Miro-wq?style=social)](https://github.com/Miro-wq)
 [![GitHub stars](https://img.shields.io/github/stars/Miro-wq?style=social)](https://github.com/Miro-wq)
-[![GitHub forks](https://img.shields.io/github/forks/Miro-wq?style=social)](https://github.com/Miro-wq)
+[![GitHub forks](https://img.shields.io/github/forks/Miro-wq/team2-new-icecream?style=social)](https://github.com/Miro-wq/team2-new-icecream)
 
 ## Contributions
 
