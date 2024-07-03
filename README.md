@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-![](https://www.chatgptguide.ai/wp-content/uploads/2024/02/Programmer-vivid-colors4.png)
-
 Hello! My name is Miro, and I'm on an exciting journey to become a proficient web developer. I have a strong foundation in HTML, CSS, JavaScript, React, Node.js, as well as good knowledge in Linux operating system and I'm continuously expanding my skills and knowledge. I enjoy solving problems, writing clean code, and learning new technologies.
 
 Skills: Node.js / React / JS / HTML / CSS /
