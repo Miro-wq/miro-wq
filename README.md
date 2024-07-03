@@ -10,11 +10,6 @@ Skills: Node.js / React / JS / HTML / CSS /
 
 ## 🛠 Tools used
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,kali,arch,linux,ubuntu,notion,obsidian,vercel,vscode" />
-  </a>
-</p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,kali,arch,linux,ubuntu,notion,obsidian,vercel,vscode)](https://skillicons.dev)
 
 ## GitHub Stats
