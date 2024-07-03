@@ -8,15 +8,12 @@ Skills: Node.js / React / JS / HTML / CSS /
 - 🌱 I’m currently learning more in depth JavaScript 
 - ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone. 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+## 🛠 Tools used
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,webpack,js,html,css,react)](https://skillicons.dev)
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=transparent )
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miro-wq&show_icons=true&theme=transparent ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miro-wq&layout=compact&theme=transparent)
 
 ## Badges
 
