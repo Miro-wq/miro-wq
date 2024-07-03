@@ -9,7 +9,7 @@ Skills: Node.js / React / JS / HTML / CSS /
 - ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone. 
 
 ## 🛠 Tools used
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,webpack,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,kali,arch,linux,ubuntu,notion,obsidian,vercel,vscode)](https://skillicons.dev)
 
 ## GitHub Stats
 
