@@ -4,7 +4,7 @@ Hello! My name is Miro, and I'm on an exciting journey to become a proficient we
 
 Skills: Node.js / React / JS / HTML / CSS /
 
-- 🔭 I’m currently working on [https://github.com/Miro-wq/goit-js-hw-09 ](https://github.com/Miro-wq/goit-js-hw-09)
+- 🔭 I’m currently working on [WeatherApp-TeamWork](https://github.com/Miro-wq/WeatherApp-TeamWork)
 - 📖 I’m currently learning more in depth JavaScript 
 - ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone. 
 
