@@ -6,11 +6,13 @@ Skills: Node.js / React.js / JS / HTML / CSS /
 
 - 🔭 I’m currently working on [https://github.com/Miro-wq/goit-nodejs-hw-rest-api](https://github.com/Miro-wq/goit-nodejs-hw-rest-api).
 - 📖 I’m currently learning more in depth React.js, integration of different API's and Node.js.
-- ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone. 
+- ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone.
 
-## 🛠 Tools used
+## Badges
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,kali,arch,linux,ubuntu,notion,obsidian,vercel,vscode)](https://skillicons.dev)
+[![GitHub followers](https://img.shields.io/github/followers/Miro-wq?style=social)](https://github.com/Miro-wq)
+[![GitHub stars](https://img.shields.io/github/stars/Miro-wq?style=social)](https://github.com/Miro-wq)
+[![GitHub forks](https://img.shields.io/github/forks/Miro-wq/team2-new-icecream?style=social)](https://github.com/Miro-wq/team2-new-icecream)
 
 ## GitHub Stats
 
@@ -21,11 +23,9 @@ Skills: Node.js / React.js / JS / HTML / CSS /
   </tr>
 </table>
 
-## Badges
+## 🛠 Tools used
 
-[![GitHub followers](https://img.shields.io/github/followers/Miro-wq?style=social)](https://github.com/Miro-wq)
-[![GitHub stars](https://img.shields.io/github/stars/Miro-wq?style=social)](https://github.com/Miro-wq)
-[![GitHub forks](https://img.shields.io/github/forks/Miro-wq/team2-new-icecream?style=social)](https://github.com/Miro-wq/team2-new-icecream)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,linux,ubuntu,notion,obsidian,vercel,vscode)](https://skillicons.dev)
 
 ## Contributions
 
