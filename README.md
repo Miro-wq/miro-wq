@@ -4,7 +4,7 @@ Hello! My name is Miro, and I'm on an exciting journey to become a proficient we
 
 Skills: Node.js / React.js / JS / HTML / CSS /
 
-- 🔭 I’m currently working on [https://github.com/Miro-wq/goit-nodejs-hw-rest-api](https://github.com/Miro-wq/goit-nodejs-hw-rest-api).
+- 🔭 I’m currently working on [https://github.com/Miro-wq/slm-backend](https://github.com/Miro-wq/slm-backend).
 - 📖 I’m currently learning more in depth React.js, integration of different API's and Node.js.
 - ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone.
 
