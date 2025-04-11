@@ -1,12 +1,11 @@
-# Welcome to My GitHub Profile! 👋
+# WAZZUUP! 👋
 
-Hello! My name is Miro, and I'm on an exciting journey to become a proficient web developer. I have a strong foundation in HTML, CSS, JavaScript, React, Node.js, as well as good knowledge in Linux operating system and I'm continuously expanding my skills and knowledge. I enjoy solving problems, writing clean code, and learning new technologies.
+My name is Miro, a web developer in progress who loves crafting clean and efficient digital experiences. With a solid background in HTML, CSS, JavaScript, React, and Node.js, along with a strong grasp of Linux, I'm constantly exploring new technologies to enhance my skills. I enjoy tackling challenges head-on, writing maintainable code, and turning complex problems into streamlined solutions.
 
 Skills: Node.js / React.js / JS / HTML / CSS /
 
-- 🔭 I’m currently working on [https://github.com/Miro-wq/slm-backend](https://github.com/Miro-wq/slm-backend).
-- 📖 I’m currently learning more in depth React.js, integration of different API's and Node.js.
-- ⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone.
+- 🔭 I’m currently working on [https://github.com/Miro-wq/fund-wise](https://github.com/Miro-wq/fund-wise).
+- 📖 I’m currently learning more and more about React.js, integration of different API's and Node.js.
 
 ## Badges
 
