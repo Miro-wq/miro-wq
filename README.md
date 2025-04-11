@@ -24,7 +24,7 @@ Skills: Node.js / React.js / JS / HTML / CSS /
 
 ## 🛠 Tools used
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,npm,webpack,figma,gitlab,linux,ubuntu,notion,obsidian,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,linux)](https://skillicons.dev)
 
 ## Contributions
 
